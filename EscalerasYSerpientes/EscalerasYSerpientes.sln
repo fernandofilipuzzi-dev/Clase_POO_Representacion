@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.36105.23 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejemplo1", "Ejemplo1\Ejemplo1.csproj", "{B6F33591-EA73-4703-81FC-60C559FC5A41}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejemplo1_orientado_a_procedimientos", "Ejemplo1\Ejemplo1_orientado_a_procedimientos.csproj", "{B6F33591-EA73-4703-81FC-60C559FC5A41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejemplo2", "Ejemplo2\Ejemplo2.csproj", "{4519BFC8-C406-4150-8866-E1B7B033739C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejemplo2_orientado_a_procedimientos_funciones", "Ejemplo2\Ejemplo2_orientado_a_procedimientos_funciones.csproj", "{4519BFC8-C406-4150-8866-E1B7B033739C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejemplo3", "Ejemplo3\Ejemplo3.csproj", "{3E07D00B-B557-4C40-ACEE-8FC5129FCBB8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejemplo3_orientado_a_objetos", "Ejemplo3\Ejemplo3_orientado_a_objetos.csproj", "{3E07D00B-B557-4C40-ACEE-8FC5129FCBB8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

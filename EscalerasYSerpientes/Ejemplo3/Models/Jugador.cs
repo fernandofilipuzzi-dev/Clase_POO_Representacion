@@ -15,7 +15,7 @@ namespace Ejemplo3.Models
             Posicion = 0;
         }
 
-        public void Tirar()
+        public void Avanza()
         { 
             Posicion+=azar.Next(1,6);
         }
