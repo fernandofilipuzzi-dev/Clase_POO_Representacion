@@ -45,9 +45,9 @@ namespace Ejemplo3.Models
                 Escalera2.Mover(Jugador2);
                 #endregion
 
-                FinJuego = Jugador1.Posicion >= 100 || Jugador1.Posicion >= 100;
+                FinJuego = Jugador1.Posicion >= 100 || Jugador2.Posicion >= 100;
 
-                if (Jugador1.Posicion >= 100 ^ Jugador1.Posicion >= 100)
+                if (Jugador1.Posicion >= 100 ^ Jugador2.Posicion >= 100)
                 {
                     if (Jugador1.Posicion >= 100)
                         Ganador = Jugador1;

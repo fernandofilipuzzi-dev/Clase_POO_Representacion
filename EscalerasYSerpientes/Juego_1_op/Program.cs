@@ -35,16 +35,16 @@ namespace Juego_1_op
             #endregion
 
             #region inicializar posiciones de las dos escaleras
-            pie1 = azar.Next(1, 100);
+            pie1 = azar.Next(1, 101);
             cabecera1 = azar.Next(pie1, 100);
 
-            pie2 = azar.Next(1, 100);
+            pie2 = azar.Next(1, 101);
             cabecera2 = azar.Next(pie2, 100);
             #endregion
 
             #region inicializar posicion de la serpiente
-            cola = azar.Next(1, 100);
-            cabeza = azar.Next(cola, 100);
+            cola = azar.Next(1, 101);
+            cabeza = azar.Next(cola, 101);
             #endregion
 
             #region iterar jugadas
@@ -120,7 +120,6 @@ namespace Juego_1_op
                 Console.WriteLine("No hay ganador");
             }
             #endregion
-
 
             Console.ReadKey();
         }

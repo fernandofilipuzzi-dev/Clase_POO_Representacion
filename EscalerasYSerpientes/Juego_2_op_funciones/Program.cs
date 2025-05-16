@@ -59,7 +59,6 @@ namespace Juego_2_op_funciones
         static void Main(string[] args)
         {
          
-
             #region Iniciar posicion jugador 1 y 2
             posicion1 = 1;
             posicion2 = 1;
